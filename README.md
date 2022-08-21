@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @corentinDallenogare
 - 👀 I’m interested in IT / Crypto
+- 💻 Full stack / Web3 DEV 
 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=#139c6c)
