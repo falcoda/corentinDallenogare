@@ -8,8 +8,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=#139c6c)
 
 ## My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=corentinDallenogare&hide=stars,prs&count_private=false&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/corentinDallenogare)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corentinDallenogare&count_private=true&layout=compact&theme=radical)](https://github.com/corentinDallenogare)
 
