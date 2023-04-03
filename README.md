@@ -9,7 +9,7 @@
 
 ## My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corentinDallenogare&count_private=true&layout=compact&theme=radical)](https://github.com/corentinDallenogare)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=corentinDallenogare&count_private=true&layout=compact&theme=radical)](https://github.com/corentinDallenogare)
 
 <!---
 corentinDallenogare/corentinDallenogare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
